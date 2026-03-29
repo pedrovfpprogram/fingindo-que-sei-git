@@ -1,3 +1,2 @@
-print('Site da Empresa 3.0')
-print()
-print('acesse a pagina de contato')
+print('Site da Empresa')
+print('imagem.png')
